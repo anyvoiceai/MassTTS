@@ -1,0 +1,4 @@
+pqdm
+soundfile
+pypinyin
+transformers
